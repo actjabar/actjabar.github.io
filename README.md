@@ -26,5 +26,5 @@ $$ |  $$ |\$$$$$$  |  $$ |         \$$$$$$  |\$$$$$$$ |\$$$$$\$$$$  |\$$$$$$$ | 
  
  </pre>
 
- ## Sample
+ ## Distro ACT
 <a href="https://ibb.co.com/ZKr9SSH"><img src="https://i.ibb.co.com/k0TZJJ3/act.jpg" alt="act" border="0"></a>
